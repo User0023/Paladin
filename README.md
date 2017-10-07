@@ -16,4 +16,4 @@ Script simples e ruim feito em python para deixar seus abiguinhos putinhos.
 
 --botmsg  -m                   Escolher mensagem que o bot enviará(opcional)
 
-Exemplo: ircbot -s <server> -p <port> --botname hack --botmsg bitch --ssl 
+Exemplo: ircbot -s *server* -p <port> --botname hack --botmsg bitch --ssl 
