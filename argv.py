@@ -6,7 +6,6 @@
 # --botname -b
 # --botmsg -m
 import sys
-from circ import *
 #default
 botname = "catlock"
 botmsg = "bitch"
