@@ -7,6 +7,20 @@
 # --botmsg -m
 import sys
 #default
+def help():
+        print "DosIRC"
+        print "by Tx004"
+        print "------------------------------"
+        print "opções:"
+        print " --server   -s <server>          Para selecionar o servidor"
+        print " --port     -p <port>            Para selecionar a porta"
+        print " --canal    -c                   Para selecionar o canal irc"
+        print " --ssl      -l                   Usar ssl no servidor "
+        print " --tor      -t                   Conectar através do tor"
+        print " --botname  -l                   Escolher nick do bot(opcional) "
+        print " --botmsg   -m                   Escolher mensagem que o bot enviará(opcional)"
+        print "\nExemplo: ircbot -s <server> -p <port> --botname hack --botmsg bitch --ssl "
+
 botname = "catlock"
 botmsg = "bitch"
 ssl = 0
