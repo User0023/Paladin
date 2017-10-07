@@ -1,7 +1,7 @@
 # IRCBOT
 Script simples e ruim feito em python para deixar seus abiguinhos putinhos.
 
-# HOW USE
+# COMO USAR
 --server   -s <server>          Para selecionar o servidor"
 --port     -p <port>            Para selecionar a porta"
 --canal    -c                   Para selecionar o canal irc"
