@@ -9,7 +9,6 @@ import sys
 #default
 def help():
         print "DosIRC"
-        print "by Tx004"
         print "------------------------------"
         print "opções:"
         print " --server   -s <server>          Para selecionar o servidor"
